@@ -12,7 +12,7 @@ A classic-style online RPG. This page holds the game itself, for Windows and Mac
 
 1. Download **[Emberfall-mac.zip](https://github.com/tysonPSF/emberfall-client/releases/download/client/Emberfall-mac.zip)** and open it.
 2. Drag **Emberfall** into your Applications folder.
-3. The first time, **right-click** Emberfall and choose **Open**, then **Open** again (the game isn't signed by Apple). After that it opens normally.
+3. Open it. The first time, macOS won't open it, because the game isn't signed by Apple. Go to **System Settings → Privacy & Security**, scroll down, and click **Open Anyway** next to Emberfall. After that it opens normally.
 
 ## Playing
 
